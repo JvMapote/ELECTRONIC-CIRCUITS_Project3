@@ -1,4 +1,4 @@
-# ELECTRONIC-CIRCUITS_Project3
+# ELECTRONIC-CIRCUITS
  Blinker LED’s Circuit with BJT (NPN)
  
 https://www.youtube.com/watch?v=s7wliKbu7v0
